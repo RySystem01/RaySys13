@@ -560,7 +560,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ Ryuka Team
   ✎ Deff
   ✎ Yoga
-  ✎ Riy
+  ✎ Rayy
   `
   }
 
@@ -580,7 +580,7 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
 👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di GitHub
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
@@ -620,9 +620,9 @@ zarrah, niscaya dia akan melihat
   return`
 *SEWA BOT 💫*
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
+📆 1 Minggu : Rp. 5.000,00
+📆 1 Bulan : Rp. 10.000,00
+📆 1 Tahun : Rp. 20.000,00
 📆 Permanen : Buat Bot Sendiri!!!
 
 *🏦 PAYMENT :*
@@ -1222,7 +1222,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ Ryuka Team
   ✎ Deff
   ✎ Yoga
-  ✎ Riy
+  ✎ Rayy
   `
   }
   
